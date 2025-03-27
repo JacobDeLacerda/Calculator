@@ -66,6 +66,6 @@ st.markdown(
 #     st.button("Go to Loan Calculator", disabled=True, help="Use sidebar navigation")
 
 
-st.info("👇 Use the navigation menu on the left to select a calculator!")
+st.info("👈 Use the navigation menu on the left to select a calculator!")
 
 st.caption("Built with Streamlit.")
